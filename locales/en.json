@@ -8,6 +8,10 @@
   "home": {
     "title": "Hello,World!",
     "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This is an introduction in English."
   }
 }
 

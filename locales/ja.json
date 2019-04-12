@@ -8,5 +8,9 @@
   "home": {
     "title": "こんにちは、世界！",
     "introduction": "このページは日本語で設定されています"
+  },
+  "about": {
+    "title": "概要",
+    "introduction": "このページは日本語で設定されています"
   }
 }
