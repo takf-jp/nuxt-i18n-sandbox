@@ -1,0 +1,22 @@
+{
+  "name": "vuejs-18n",
+  "version": "1.0.0",
+  "description": "My groovy Nuxt.js project",
+  "author": "takf-jp",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/bulma": "^1.2.1",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "vue-i18n": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
